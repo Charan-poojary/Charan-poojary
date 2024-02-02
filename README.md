@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Poojary</h1>
-<h3 align="center">Code Alchemist from India: Brewing Innovation in Every Byte 🧙‍♂️💻</h3>
+<h3 align="center">A Passionate coder from India: Brewing Innovation in Every Byte 🧙‍♂️💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan-poojary&label=Profile%20views&color=0e75b6&style=flat" alt="charan-poojary" /> </p>
 
