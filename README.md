@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Explore MIT**
 
-- 🌱 I’m currently learning **React native,flutter,firebase**
+- 🌱 I’m currently learning **.Net core,C#,SQL Server,AWS**
 
 - 💬 Ask me about **react,mongoDB,HTML and css**
 
