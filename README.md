@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan-poojary" alt="charan-poojary" /></a> </p>
 
-- 🔭 I’m currently working on **Explore MIT**
+- 🔭 I’m currently working on **ABB-ACS Software and Ak-Digitals Studio WEBSITE**
 
 - 🌱 I’m currently learning **.Net core,C#,SQL Server,AWS**
 
