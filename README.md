@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **charanhejamady101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11MDHwEBX6JkipP_MtfVkUfOQBHyP506B/view?usp=sharing](https://drive.google.com/file/d/11MDHwEBX6JkipP_MtfVkUfOQBHyP506B/view?usp=sharing)
-
+- 📄 To Know more about my experiences have a look at <a href="https://drive.google.com/file/d/11MDHwEBX6JkipP_MtfVkUfOQBHyP506B/view?usp=sharing">My Resume</a>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charan-poojary-5810711a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan-poojary-5810711a7" height="30" width="40" /></a>
