@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **charanhejamady101@gmail.com**
 
-- 📄 To Know more about my experiences,have a look at <a href="https://drive.google.com/file/d/1zCxj_3KWCLu7SB9ynRZBNFfJO4DnwfkX/view?usp=sharing">My Resume</a>
+- 📄 To Know more about my experiences,have a look at <a href="https://drive.google.com/file/d/1YkLEz36SrpPIrEv9WnYin6Tm3C4bOiAj/view?usp=sharing">My Resume</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
