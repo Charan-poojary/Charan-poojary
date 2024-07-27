@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Poojary</h1>
-<h3 align="center">Looking for a Code Wizard🧙‍♂️💻,Please go through this profile </h3>
+<h3 align="center">Looking for a fresher with creative perspectives🧙‍♂️💻? - you are in the right place, please go through this profile </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan-poojary&label=Profile%20views&color=0e75b6&style=flat" alt="charan-poojary" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **.Net core,C#,SQL Server,AWS**
 
-- 💬 Ask me about **react,mongoDB,HTML and css**
+- 💬 Ask me about **java,javascript,bootstrap,react,mongoDB,HTML and css**
 
 - 📫 How to reach me **charanhejamady101@gmail.com**
 
-- 📄 To Know more about my experiences,have a look at <a href="https://drive.google.com/file/d/1YkLEz36SrpPIrEv9WnYin6Tm3C4bOiAj/view?usp=sharing">My Resume</a>
+- 📄 To Know more about my experiences,have a look at <a href="https://drive.google.com/file/d/1uWBRGapuVqcc2ESSehDdymN709_FwdS-/view?usp=sharing">My Resume</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
